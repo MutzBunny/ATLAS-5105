@@ -1,0 +1,2 @@
+Find documentation at https://docs.google.com/document/d/1YsLYiNmj38KnRkkMDU6tVBOtz3oYrehD1OMCV9wr588/edit?usp=sharing
+I will make the documentation final as soon as I have a working design. I will include it here.
